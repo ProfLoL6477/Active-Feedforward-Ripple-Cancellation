@@ -1,6 +1,6 @@
 # Simulation Readme
 
-**Simulation Software:** MATLAB R2024b and SIMULINK
+**Simulation Software:** MATLAB R2024b and SIMULINK (Licensed)
 
 **NOTE:** The given simulation would not work on MATLAB R2025b or later versions because they have removed a lot of blocks essential to this simulation.
 

@@ -30,6 +30,7 @@ Step3: From the initial MATLAB window, open SIMULINK from the toolbar on the top
 
 Step4: Open the [techathonv5](techathonv5.slx) file in SIMULINK and run it.
 <img width="1920" height="1128" alt="open_sim_file" src="https://github.com/user-attachments/assets/bb4e8e33-f34f-455d-84a3-23a39e0eb728" />
+<img width="1920" height="1128" alt="run_sim" src="https://github.com/user-attachments/assets/c6afe50d-c26c-475a-a5aa-6717b0ae6293" />
 
 **NOTE:** Directly opening the [techathonv5](techathonv5.slx) file may take a while to open especially if SIMULINK is not already running. It is recommended to open SIMULINK software first. Also, make sure you have already ran the [HPF_V4](HPF_V4.mlx) file in MATLAB before running the simulation.
 

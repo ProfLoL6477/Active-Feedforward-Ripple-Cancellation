@@ -15,12 +15,18 @@ Make sure to select release R2024b.
 ## 2. Running the Simulation:
 Step1: Open MATLAB R2024b.
 
+
 Step2: Open the [HPF_V4](HPF_V4.mlx) file in MATLAB and run it.
+
 **NOTE:** Directly opening the [HPF_V4](HPF_V4.mlx) file may take a while to open especially if MATLAB is not already running. It is recommended to open MATLAB software first. 
+
 
 Step3: Open SIMULINK from the toolbar on the top.
 
+
 Step4: Open the [techathonv5](techathonv5.slx) file in SIMULINK and run it.
+
 **NOTE:** Directly opening the [techathonv5](techathonv5.slx) file may take a while to open especially if SIMULINK is not already running. It is recommended to open SIMULINK software first. Also, make sure you have already ran the [HPF_V4](HPF_V4.mlx) file in MATLAB before running the simulation.
+
 
 All the signals are labelled and you can open the corresponding connected scope to see the output.

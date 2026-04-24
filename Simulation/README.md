@@ -2,7 +2,7 @@
 
 **Simulation Software:** MATLAB R2024b and SIMULINK
 
-**NOTE:** The given simulation would not work on MATLAB R2025b or later versions because they have remove a lot of blocks essential to this simulation.
+**NOTE:** The given simulation would not work on MATLAB R2025b or later versions because they have removed a lot of blocks essential to this simulation.
 
 ## 1. Software Setup:
 1. Download and Install MATLAB R2024b from: <https://www.mathworks.com/downloads/> 
